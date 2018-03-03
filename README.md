@@ -1,3 +1,0 @@
-# DevToolKit
-
-some shell script
